@@ -31,6 +31,7 @@ public class ClassTest {
         }else System.out.println("the text is not equals");
 
         System.out.println(x);
+        1
 
 
 
